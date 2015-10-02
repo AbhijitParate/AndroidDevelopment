@@ -1,6 +1,24 @@
 ------Journal----------
 
-Day 1 [09/17/15]:
+Week 1 [09/17/15]:
 >Created git repository
 >Created journal file
 >Uploaded and sync the folder with git
+
+Week 2 [09/30/15]:
+>Understood the concept of Activity, Fragment and Application lifecycle.
+>Started working on the UI and Individual Functionalities parellaly.
+>Camera appliation
+  >To invoke default camera intent.
+  >Take photo and save it to the file system.
+  >Show image in and ImageView.
+>Floating Action Button
+  >Added FAB and its sub buttons.
+  >Added on click activities to it.
+  >Linked camera app to one of the FAB Sub menu.
+>SnackBar
+  >Implemented Snackbar for in app notifications without click listeners.
+>>>TO DO FOR NEXT WEEK
+  >Create Video Recorder App
+  >Create Audio Recorder App
+  >Create Note Pad App
