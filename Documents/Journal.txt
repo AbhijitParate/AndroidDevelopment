@@ -1,10 +1,5 @@
 ------Journal----------
 
-Week 1 [09/17/15]:
->Created git repository
->Created journal file
->Uploaded and sync the folder with git
-
 Week 2 [09/30/15]:
 >Understood the concept of Activity, Fragment and Application lifecycle.
 >Started working on the UI and Individual Functionalities parellaly.
@@ -22,3 +17,8 @@ Week 2 [09/30/15]:
   >Create Video Recorder App
   >Create Audio Recorder App
   >Create Note Pad App
+
+Week 1 [09/17/15]:
+>Created git repository
+>Created journal file
+>Uploaded and sync the folder with git
