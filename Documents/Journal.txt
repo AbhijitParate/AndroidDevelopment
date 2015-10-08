@@ -1,23 +1,23 @@
 ------Journal----------
 Week 3 [10/08/15]:
 *Updates:
-1 FAB Size
-Changed size of FAB and subFABs. Increased size for better UX.
-2 FAB Click
-On click FAB changes color. (Done using selector.xml)
-3 Application Folder
-Application has its own folder called TravelLogger with folders for each Audio/Video/Image respectively and Temp for temp storage. Application checks for the folder structure and creates if doesn’t exist. Shows error if write permission is not available.
-4 Video Recording
-App can record and save videos.
-5 Audio Recording
-App can record and save audio clips. For now only format supported is 3gp.
-Added Long Press Listener in FAB and subFAB buttons
-6 Long press listener detects long press on FAB and subFABs. For now the event triggers Toast but in future it will produce more options. Ex. onClick-> open camera and onLongClick-> open option to choose either Gallery or Camera.
+>FAB Size
+  >Changed size of FAB and subFABs. Increased size for better UX.
+>FAB Click
+  >On click FAB changes color. (Done using selector.xml)
+>Application Folder
+  >Application has its own folder called TravelLogger with folders for each Audio/Video/Image respectively and Temp for temp storage. Application checks for the folder structure and creates if doesn’t exist. Shows error if write permission is not available.
+>Video Recording
+  >App can record and save videos.
+>Audio Recording
+  >App can record and save audio clips. For now only format supported is 3gp.
+>Added Long Press Listener in FAB and subFAB buttons
+  >Long press listener detects long press on FAB and subFABs. For now the event triggers Toast but in future it will produce more options. Ex. onClick-> open camera and onLongClick-> open option to choose either Gallery or Camera.
 
 *To Do for Next Week
-1 Create story view with common list for all captured media (Image/Video/Audio)
-2 Add database to manage Trips with notes and associated media files.
-3 Understand settings menu
+>Create story view with common list for all captured media (Image/Video/Audio)
+>Add database to manage Trips with notes and associated media files.
+>Understand settings menu
 
 Week 2 [09/30/15]:
 >Understood the concept of Activity, Fragment and Application lifecycle.
