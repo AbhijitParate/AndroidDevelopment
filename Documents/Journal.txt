@@ -1,4 +1,17 @@
 ------Journal----------
+Week 4 [23/08/15]:
+*Updates:
+>Added Imagebuttons in AudioRecord.
+>Added communication to background service to get duration of recorded audio.
+>Added RecyclerView with cusom views (ImageView and VideoView)
+>Added Picasso Library to add simple cacheing.
+>Added select file from galley onLongPress of subMenuButtons
+*To Do Next Week:
+>Add AudioView and TextView to RecyclerView
+>More Optimization of the app
+>Create UI Thread to do rendering in background
+>Add notesActivity to add notes
+
 Week 3 [10/08/15]:
 *Updates:
 >FAB Size
