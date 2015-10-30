@@ -1,5 +1,5 @@
 ------Journal----------
-Week 4 [23/08/15]:
+Week 4 [29/08/15]:
 *Updates:
 >Added Imagebuttons in AudioRecord.
 >Added communication to background service to get duration of recorded audio.
