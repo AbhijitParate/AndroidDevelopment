@@ -1,4 +1,11 @@
 ------Journal----------
+Week 5 [14/11/2015]:
+*Updates:
+>Added layouts for each type of Views
+>Refactored the code.
+>Added helper classes.
+>Improved RecyclerView
+
 Week 4 [29/08/15]:
 *Updates:
 >Added Imagebuttons in AudioRecord.
